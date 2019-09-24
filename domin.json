@@ -1,8 +1,8 @@
 {
-    "bafang" = "https://bafang.cp0360.com/",
-    "kf" = "https://kf.cp0360.com/",
-    "mapi" = "https://mapi.cp0360.com/",
-    "live" = "https://live.cp0360.com/",
-    "stat" = "https://stat.cp0360.com/",
-    "cms" = "https://cms.cp0360.com/"
+    "bafang":"https://bafang.cp0360.com/",
+    "kf":"https://kf.cp0360.com/",
+    "mapi":"https://mapi.cp0360.com/",
+    "live":"https://live.cp0360.com/",
+    "stat":"https://stat.cp0360.com/",
+    "cms":"https://cms.cp0360.com/"
 }
